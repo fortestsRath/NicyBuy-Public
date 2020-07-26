@@ -1,0 +1,2 @@
+# NicyBuy-Public
+VErsion publica
